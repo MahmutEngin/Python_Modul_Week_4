@@ -1,0 +1,14 @@
+[
+    {
+        "Id": 1,
+        "Uye adi": "mahmut",
+        "Telefon": "11111111",
+        "Adres": "Rotterdam"
+    },
+    {
+        "Id": 2,
+        "Uye adi": "kamil",
+        "Telefon": "456546",
+        "Adres": "roterdam"
+    }
+]
