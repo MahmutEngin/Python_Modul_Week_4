@@ -6,7 +6,7 @@ def suanki_tarih():
 
 def kitap_verilis_tarihi():
     """Kitabın verildiği tarihi döndürür."""
-    return datetime.now()
+    return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 def kitap_iade_tarihi(verilis_tarihi, gun_sayisi=14):
     """Kitabın iade edilmesi gereken tarihi hesaplar."""
